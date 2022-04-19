@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  *rev_string - reverse the string.
  *@s: pointer to string.
